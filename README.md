@@ -13,3 +13,5 @@ Se realizo lo siguiente:
 6. Migraciones con PosgressSQL y Uso de base datos Relacional
 7. Se partieron de indices en cada uno de sus folder para un mejor ruteo en las direcciones del proyecto y de que esa manera sea mas sencillo seguir el flujo de  la aplicacion . 
 8. Uso de algunos middleWare para validaciones y flujo de aplicacion correcta al uso de JWT. 
+9. Uso de variable de Entorno para poder subir a repositorio y no se divulge informacion de desguridad. 
+10. 10. Despliege de posgress en la Nube por medio de elephantSQL. 
